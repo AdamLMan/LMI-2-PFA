@@ -12,7 +12,7 @@ Python capable d'automatiser l'analyse de ces données.
 
 - [Ikbel Jadlaoui]()
 - [Yasmine Aouichi]()
-- [Adam Selmane]()
+- [Adam Selmane](https://github.com/AdamLMan)
 
 
 ## Librairies
