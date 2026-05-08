@@ -41,7 +41,38 @@ Le script exécute les étapes suivantes :
 # 📌 Résultats
 
 - 📄 Fichier traité : `resultats_final.csv`
-- 📈 Indicateurs de performance calculés  
+- 📈 Indicateurs de performance calculés
+
+  
+# 🚀 Installation et Démarrage
+
+## 1️⃣ Cloner le dépôt
+```bash
+git clone https://github.com/
+```
+
+## 2️⃣ Créer un environnement virtuel
+```bash
+python -m venv venv
+```
+
+## 3️⃣ Activer l’environnement
+
+### Windows
+```bash
+.\venv\Scripts\activate
+```
+
+### macOS / Linux
+```bash
+source venv/bin/activate
+```
+
+## 4️⃣ Installer les dépendances
+```bash
+pip install -r requirements.txt
+```
+
 ## Librairies
 csv
 
